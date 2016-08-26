@@ -1,3 +1,5 @@
+![](https://www.snort.org/assets/Snort3.png)
+
 # Snort++
 
 The Snort++ project has been hard at work for a while now and we have
